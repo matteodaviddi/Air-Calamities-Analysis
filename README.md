@@ -33,7 +33,7 @@ This project analyzes a dataset of aviation accidents from **1919 to 2023**, cov
 | NumPy | Numerical operations |
 | Matplotlib | Static data visualizations |
 | Plotly Express | Interactive world map (choropleth) |
-| Jupyter Notebook | Development environment |
+| Google Colab | Development environment |
 
 ---
 
